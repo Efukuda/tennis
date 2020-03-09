@@ -1,1 +1,1 @@
-web: gunicorn foodservices.wsgi --log-file -
+web: gunicorn tennis.wsgi --log-file -
